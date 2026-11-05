@@ -1,17 +1,1 @@
-{
-  "name": "My Gym Guide",
-  "short_name": "Gym Guide",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "background_color": "#0a1220",
-  "theme_color": "#101b2b",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    }
-  ]
-}
+{"name": "My Gym Guide", "short_name": "Gym Guide", "start_url": "./", "scope": "./", "display": "standalone", "theme_color": "#091321", "background_color": "#091321", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
